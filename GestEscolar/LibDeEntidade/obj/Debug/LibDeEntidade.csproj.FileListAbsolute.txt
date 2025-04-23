@@ -1,0 +1,6 @@
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeEntidade\bin\Debug\LibDeEntidade.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeEntidade\bin\Debug\LibDeEntidade.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeEntidade\obj\Debug\LibDeEntidade.csproj.AssemblyReference.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeEntidade\obj\Debug\LibDeEntidade.csproj.CoreCompileInputs.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeEntidade\obj\Debug\LibDeEntidade.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeEntidade\obj\Debug\LibDeEntidade.pdb

@@ -1,0 +1,9 @@
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeDados\bin\Debug\LibDeDados.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeDados\bin\Debug\LibDeDados.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeDados\bin\Debug\LibDeEntidade.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeDados\bin\Debug\LibDeEntidade.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeDados\obj\Debug\LibDeDados.csproj.AssemblyReference.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeDados\obj\Debug\LibDeDados.csproj.CoreCompileInputs.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeDados\obj\Debug\LibDeDados.csproj.Up2Date
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeDados\obj\Debug\LibDeDados.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeDados\obj\Debug\LibDeDados.pdb

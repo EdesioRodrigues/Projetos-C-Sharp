@@ -1,0 +1,7 @@
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\cassino\obj\Debug\cassino.csproj.AssemblyReference.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\cassino\obj\Debug\cassino.csproj.CoreCompileInputs.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\cassino\bin\Debug\cassino.exe.config
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\cassino\bin\Debug\cassino.exe
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\cassino\bin\Debug\cassino.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\cassino\obj\Debug\cassino.exe
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\cassino\obj\Debug\cassino.pdb

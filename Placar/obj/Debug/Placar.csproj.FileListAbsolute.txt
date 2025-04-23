@@ -1,0 +1,10 @@
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\Placar\bin\Debug\Placar.exe.config
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\Placar\bin\Debug\Placar.exe
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\Placar\bin\Debug\Placar.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\Placar\obj\Debug\Placar.csproj.AssemblyReference.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\Placar\obj\Debug\Placar.Form1.resources
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\Placar\obj\Debug\Placar.Properties.Resources.resources
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\Placar\obj\Debug\Placar.csproj.GenerateResource.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\Placar\obj\Debug\Placar.csproj.CoreCompileInputs.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\Placar\obj\Debug\Placar.exe
+C:\Users\edesi\OneDrive\Área de Trabalho\VsCode\C#\Placar\obj\Debug\Placar.pdb

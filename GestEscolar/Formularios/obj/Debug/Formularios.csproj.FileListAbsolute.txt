@@ -1,0 +1,15 @@
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\bin\Debug\Formularios.exe
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\bin\Debug\Formularios.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\bin\Debug\LibDeEntidade.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\bin\Debug\LibDeNegocio.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\bin\Debug\LibDeEntidade.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\bin\Debug\LibDeNegocio.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\obj\Debug\Formular.9034CDC0.Up2Date
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\obj\Debug\Formularios.exe
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\obj\Debug\Formularios.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\Formularios\obj\Debug\Formularios.Form1.resources

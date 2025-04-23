@@ -1,0 +1,11 @@
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\bin\Debug\LibDeNegocio.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\bin\Debug\LibDeNegocio.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\bin\Debug\LibDeDados.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\bin\Debug\LibDeEntidade.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\bin\Debug\LibDeDados.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\bin\Debug\LibDeEntidade.pdb
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\obj\Debug\LibDeNegocio.csproj.AssemblyReference.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\obj\Debug\LibDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\obj\Debug\LibDeNeg.ADF5ACB3.Up2Date
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\obj\Debug\LibDeNegocio.dll
+C:\Users\edesi\OneDrive\Área de Trabalho\VsStudio\C#\Projetos\GestEscolar\LibDeNegocio\obj\Debug\LibDeNegocio.pdb
